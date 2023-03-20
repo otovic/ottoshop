@@ -1,0 +1,307 @@
+@media only screen and (max-width: 480.99px) {
+    .coupon-card {
+        width: 80%;
+        aspect-ratio: 2/1;
+        border-radius: 10px;
+        border: 1px solid rgb(0, 0, 0);
+        margin: 10px;
+        display: flex;
+    }
+
+    #coupon-info {
+        width: 80%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: rgb(245, 245, 245);
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-ammount {
+        width: 20%;
+        height: 100%;
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 1px black;
+        font-size: 1rem;
+    }
+
+    #coupon-title {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-title > p {
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+
+    #coupon-date {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 4vw;
+    }
+
+    #coupon-code {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        border-top: 1px solid black;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 4vw;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    .coupon-card {
+        width: 300px;
+        height: 150px;
+        border-radius: 10px;
+        border: 1px solid rgb(0, 0, 0);
+        margin: 10px;
+        display: flex;
+    }
+
+    #coupon-info {
+        width: 80%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: rgb(245, 245, 245);
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-ammount {
+        width: 20%;
+        height: 100%;
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 1px black;
+        font-size: 1.5rem;
+    }
+
+    #coupon-title {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-title > p {
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    #coupon-date {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 0.8rem;
+    }
+
+    #coupon-code {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        border-top: 1px solid black;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    .coupon-card {
+        width: 300px;
+        height: 150px;
+        border-radius: 10px;
+        border: 1px solid rgb(0, 0, 0);
+        margin: 10px;
+        display: flex;
+    }
+
+    #coupon-info {
+        width: 80%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: rgb(245, 245, 245);
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-ammount {
+        width: 20%;
+        height: 100%;
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 1px black;
+        font-size: 1.5rem;
+    }
+
+    #coupon-title {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-title > p {
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    #coupon-date {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 0.8rem;
+    }
+
+    #coupon-code {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        border-top: 1px solid black;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    .coupon-card {
+        width: 400px;
+        height: 180px;
+        border-radius: 10px;
+        border: 1px solid rgb(0, 0, 0);
+        margin: 10px;
+        display: flex;
+    }
+
+    #coupon-info {
+        width: 80%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: rgb(245, 245, 245);
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-ammount {
+        width: 20%;
+        height: 100%;
+        color: rgb(242, 242, 242);
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 1px black;
+        font-size: 2rem;
+    }
+
+    #coupon-title {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coupon-title > p {
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 2rem;
+    }
+
+    #coupon-date {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 0.8rem;
+    }
+
+    #coupon-code {
+        width: 90%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+        border-top: 1px solid black;
+        margin: 0px;
+        color: black;
+        font-weight: bold;
+        font-size: 1rem;
+    }
+}

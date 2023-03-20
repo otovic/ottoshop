@@ -1,0 +1,334 @@
+@media only screen and (max-width: 480.99px) {
+    .pc {
+        display: none;
+    }
+
+    #header-right-cart
+    {
+        position: relative;
+    }
+
+    #cart-counter{
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        background-color: red;
+        width: 25px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        border-radius: 50%;
+        font-weight: bold;
+    }
+
+    #header-left-logo > a > img {
+        width: 18vw;
+        height: 18vw;
+    }
+
+    #header-left-menu-mb {
+        width: 30px;
+        height: 30px;
+    }
+
+    #header-left-menu-mb > img {
+        width: 7vw;
+        height: 7vw;
+    }
+
+    #header-left-seacrh-mb {
+        margin-left: 10px;
+    }
+
+    #header-left-search-mb > img {
+        width: 8vw;
+        height: 8vw;
+    }
+
+    #header-center-logo-mb > a > img {
+        width: 15vw;
+        height: 15vw;
+    }
+    
+    #header-right-search > img {
+        width: 7vw;
+        height: 7vw;
+    }
+
+    #header-right-cart
+    {
+        position: relative;
+    }
+
+    #cart-counter{
+        position: absolute;
+    }
+    
+    #header-right-cart > img {
+        width: 7vw;
+        height: 7vw;
+    }
+
+    #header-right-user > img {
+        width: 7vw;
+        height: 7vw;
+    }
+
+    #reset-pass-logo > img {
+        width: 60px;
+        height: 60px;
+    }
+
+    #social-instagram-header {
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    #social-instagram-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #social-facebook-header {
+        margin-left: 10px;
+    }
+
+    #social-facebook-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    .pc {
+        display: none;
+    }
+
+    #header-right-cart
+    {
+        position: relative;
+    }
+
+    #cart-counter{
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        background-color: red;
+        width: 25px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        border-radius: 50%;
+        font-weight: bold;
+    }
+
+    #header-left-logo > a > img {
+        width: 80px;
+        height: 80px;
+    }
+
+    #header-left-menu-mb > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #header-left-seacrh-mb {
+        margin-left: 10px;
+    }
+
+    #header-left-search-mb > img {
+        width: 40px;
+        height: 40px;
+    }
+
+    #header-center-logo-mb > a > img {
+        width: 80px;
+        height: 80px;
+    }
+
+    #header-right-search > img {
+        width: 30px;
+        height: 30px;
+    }
+    
+    #header-right-cart > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #header-right-user > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #reset-pass-logo > img {
+        width: 60px;
+        height: 60px;
+    }
+
+    #social-instagram-header {
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    #social-instagram-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #social-facebook-header {
+        margin-left: 10px;
+    }
+
+    #social-facebook-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    .mb {
+        display: none;
+    }
+
+    #social-facebook-header {
+        margin-left: 10px;
+    }
+
+    #social-facebook-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #social-instagram-header {
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    #header-right-cart
+    {
+        position: relative;
+    }
+
+    #cart-counter{
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        background-color: red;
+        width: 25px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        border-radius: 50%;
+        font-weight: bold;
+    }
+
+    #social-instagram-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #header-left-logo > a > img {
+        width: 80px;
+        height: 80px;
+    }
+
+    #header-right-search > img {
+        width: 30px;
+        height: 30px;
+    }
+    
+    #header-right-cart > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #header-right-user > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #reset-pass-logo > img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    .mb {
+        display: none;
+    }
+
+    #social-facebook-header {
+        margin-left: 10px;
+    }
+
+    #social-facebook-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #social-instagram-header {
+        margin-left: 10px;
+    }
+
+    #social-instagram-header > a > img {
+        width: 20px;
+        height: 20px;
+    }
+
+    #header-left-logo > a > img {
+        width: 80px;
+        height: 80px;
+    }
+
+    #header-right-search > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #header-right-cart
+    {
+        position: relative;
+    }
+
+    #cart-counter{
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        background-color: red;
+        width: 25px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        border-radius: 50%;
+        font-weight: bold;
+    }
+    
+    #header-right-cart > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #header-right-user > img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #reset-pass-logo > img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+img:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,167 @@
+@media only screen and (max-width: 480.99px) {
+    #register-user-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    #user-registration {
+        width: 100%;
+        height: auto;
+    }
+
+    #benefit-title {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #benefit-title > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .content-cont > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-size: 5vw;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    #register-user-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    #user-registration {
+        width: 100%;
+        height: auto;
+    }
+
+    #benefit-title {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #benefit-title > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .content-cont > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #register-user-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 20px;
+        display: flex;
+        gap: 2%;
+        justify-content: center;
+    }
+
+    #user-registration {
+        width: 45%;
+        height: auto;
+        
+    }
+
+    #benefit-title {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #benefit-title > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .content-cont > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-size: 22px;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #register-user-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 20px;
+        display: flex;
+        gap: 1%;
+        justify-content: center;
+    }
+
+    #user-registration {
+        width: 700px;
+        min-width: 500px;
+        height: auto;
+    }
+
+    #registration-form-conatiner {
+        width: 100%;
+        height: auto;
+    }
+
+    #benefit-title {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #benefit-title > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .content-cont > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+}
+
+.content-cont {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.benefit-border {
+    border: 1px solid black;
+    border-radius: 10px;
+}

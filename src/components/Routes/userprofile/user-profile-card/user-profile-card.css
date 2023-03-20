@@ -1,0 +1,266 @@
+@media only screen and (max-width: 480.99px) {
+    #profile-card {
+        width: 1100px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #profile-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #profile-title-welcome {
+        width: 50%;
+        height: 100%;
+    }
+
+    #profile-title-points {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    #profile-card-menu {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid rgb(176, 176, 176);
+        display: flex;
+        gap: 4%;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    #profile-card-path {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #orders-container {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 1px solid red;
+        margin-top: 40px;
+    }
+
+    #name-surname {
+        width: 80%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    #profile-card {
+        width: 1100px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #profile-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #profile-title-welcome {
+        width: 50%;
+        height: 100%;
+    }
+
+    #profile-title-points {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    #profile-card-menu {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid rgb(176, 176, 176);
+        display: flex;
+        gap: 4%;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    #profile-card-path {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #orders-container {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 1px solid red;
+        margin-top: 40px;
+    }
+
+    #name-surname {
+        width: 80%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #profile-card {
+        width: 90%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #profile-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #profile-title-welcome {
+        width: 70%;
+        height: 100%;
+    }
+
+    #profile-title-points {
+        width: 70%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    #profile-card-menu {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid rgb(176, 176, 176);
+        display: flex;
+        gap: 4%;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    #profile-card-path {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #orders-container {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border: 1px solid red;
+        margin-top: 40px;
+    }
+
+    #name-surname {
+        width: 70%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #profile-card {
+        width: 1100px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #profile-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #profile-title-welcome {
+        width: 50%;
+        height: 100%;
+    }
+
+    #profile-title-points {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    #profile-card-menu {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid rgb(176, 176, 176);
+        display: flex;
+        gap: 1%;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    #profile-card-path {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #name-surname {
+        width: 40%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+}
+
+#profile-card-container {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,289 @@
+@media only screen and (max-width: 599.99px) {
+    #products-stripe {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 2%;
+        white-space: nowrap;
+        position: relative;
+        flex-wrap: wrap;
+    }
+
+    #products-container {
+        width: 100%;
+        height: auto;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        position: relative;
+        transition: all 1s;
+    }
+
+    #product-left {
+        width: 8vw;
+        height: 16vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 2vw;
+    }
+
+    .product-left-pos{
+        top: 42%;
+        left: 0px;
+    }
+
+    #product-swipe {
+        width: 8vw;
+        height: 16vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 6vw;
+    }
+
+    .product-right-pos{
+        top: 42%;
+        right: 0px;
+    }
+
+    #stripe-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #stripe-title > p{
+        font-weight: 800;
+        font-size: 6vw;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 850.99px) {
+    #products-stripe {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 1%;
+        white-space: nowrap;
+        position: relative;
+        flex-wrap: wrap;
+    }
+
+    #products-container {
+        width: 100%;
+        height: auto;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        position: relative;
+        transition: all 1s;
+    }
+
+    #product-left {
+        width: 2vw;
+        height: 7vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 4vw;
+    }
+
+    .product-left-pos{
+        top: 42%;
+        left: 0px;
+    }
+
+    #product-swipe {
+        width: 3vw;
+        height: 8vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 2vw;
+    }
+
+    .product-right-pos{
+        top: 42%;
+        right: 0px;
+    }
+
+    #stripe-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #stripe-title > p{
+        font-weight: 800;
+        font-size: 2.5vw;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #products-stripe {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 1%;
+        white-space: nowrap;
+        position: relative;
+        flex-wrap: wrap;
+    }
+
+    #products-container {
+        width: 100%;
+        height: auto;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        position: relative;
+        transition: all 1s;
+    }
+
+    #product-left {
+        width: 2vw;
+        height: 7vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 2vw;
+    }
+
+    .product-left-pos{
+        top: 42%;
+        left: 0px;
+    }
+
+    #product-swipe {
+        width: 2vw;
+        height: 7vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 2vw;
+    }
+
+    .product-right-pos{
+        top: 42%;
+        right: 0px;
+    }
+
+    #stripe-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #stripe-title > p{
+        font-weight: 800;
+        font-size: 2.2vw;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #products-stripe {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 1%;
+        white-space: nowrap;
+        position: relative;
+        flex-wrap: wrap;
+    }
+
+    #products-container {
+        width: 100%;
+        height: auto;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        position: relative;
+        transition: all 1s;
+    }
+
+    #product-left {
+        width: 2vw;
+        height: 7vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 2vw;
+    }
+
+    .product-left-pos{
+        top: 42%;
+        left: 0px;
+    }
+
+    #product-swipe {
+        width: 2vw;
+        height: 7vw;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        font-weight: bold;
+        color: white;
+        font-size: 2vw;
+    }
+
+    .product-right-pos{
+        top: 42%;
+        right: 0px;
+    }
+
+    #stripe-title {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #stripe-title > p{
+        font-weight: 800;
+        font-size: 1.8vw;
+    }
+}
+
+#products-container-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#none-swipe{
+    display: none;
+}

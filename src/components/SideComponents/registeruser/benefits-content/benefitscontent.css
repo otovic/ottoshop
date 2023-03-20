@@ -1,0 +1,10 @@
+.benefit-register {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+.benefit-register > p {
+    margin: 0px;
+}

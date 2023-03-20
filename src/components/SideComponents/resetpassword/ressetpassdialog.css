@@ -1,0 +1,323 @@
+@media only screen and (max-width: 480.99px) {
+    #resset-password-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #reset-password {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .reset-pass-new {
+        max-width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions > h3 {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    
+    .reset-pass-instructions > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    
+    .input-login-dialog {
+        width: 98%;
+        height: 40px;
+        box-shadow: none;
+        outline: none;
+        border: none;
+        font-size: 18px;
+        margin-top: 10px;
+        border-bottom: 2px solid black;
+        text-align: center;
+    }
+    
+    .login-dialog-submit {
+        width: 100%;
+        margin-top: 10px;
+        box-sizing: border-box;
+        padding: 10px;
+        font-size: 18px;
+        background-color:black;
+        font-weight: 700;
+        border: 1px solid black;
+        border-radius: 5px;
+        color: white;
+    }  
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    #resset-password-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #reset-password {
+        width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .reset-pass-new {
+        max-width: 400px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions {
+        max-width: 800px;
+        min-width: 400px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions > h3 {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    
+    .reset-pass-instructions > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    
+    .input-login-dialog {
+        width: 98%;
+        height: 40px;
+        box-shadow: none;
+        outline: none;
+        border: none;
+        font-size: 18px;
+        margin-top: 10px;
+        border-bottom: 2px solid black;
+        text-align: center;
+    }
+    
+    .login-dialog-submit {
+        width: 100%;
+        margin-top: 10px;
+        box-sizing: border-box;
+        padding: 10px;
+        font-size: 18px;
+        background-color:black;
+        font-weight: 700;
+        border: 1px solid black;
+        border-radius: 5px;
+        color: white;
+    } 
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #resset-password-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #reset-password {
+        width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .reset-pass-new {
+        max-width: 400px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions {
+        max-width: 800px;
+        min-width: 400px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions > h3 {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    
+    .reset-pass-instructions > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    
+    .input-login-dialog {
+        width: 98%;
+        height: 40px;
+        box-shadow: none;
+        outline: none;
+        border: none;
+        font-size: 18px;
+        margin-top: 10px;
+        border-bottom: 2px solid black;
+        text-align: center;
+    }
+    
+    .login-dialog-submit {
+        width: 100%;
+        margin-top: 10px;
+        box-sizing: border-box;
+        padding: 10px;
+        font-size: 18px;
+        background-color:black;
+        font-weight: 700;
+        border: 1px solid black;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #resset-password-container {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #reset-password {
+        width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .reset-pass-instructions {
+        max-width: 800px;
+        min-width: 400px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    .reset-pass-new {
+        max-width: 400px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+    
+    .reset-pass-instructions > h3 {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    
+    .reset-pass-instructions > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    
+    .input-login-dialog {
+        width: 98%;
+        height: 40px;
+        box-shadow: none;
+        outline: none;
+        border: none;
+        font-size: 18px;
+        margin-top: 10px;
+        border-bottom: 2px solid black;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+    .login-dialog-submit {
+        width: 100%;
+        margin-top: 10px;
+        box-sizing: border-box;
+        padding: 10px;
+        font-size: 18px;
+        background-color:black;
+        font-weight: 700;
+        border: 1px solid black;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+#reset-pass-error > p {
+    color: red;
+    margin: 0px;
+}
+
+#code-message {
+    font-weight: 700;
+}
+
+#code-message:hover {
+    text-decoration: 1px solid underline;
+    cursor: pointer;
+}
+
+#cap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

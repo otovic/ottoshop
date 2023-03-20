@@ -1,0 +1,89 @@
+@media only screen and (max-width: 599.99px) {
+    #perk-card-container {
+        max-width: 80%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        box-sizing: border-box;
+        padding: 1%;
+        text-align: center;
+    }
+
+    #perk-card-container > img {
+        width: 15%;
+        height: 15%;
+    }
+
+    #perk-card-container > h2, #perk-card-container > p, #perk-card-container > img {
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 850.99px) {
+    #perk-card-container {
+        max-width: 60%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        box-sizing: border-box;
+        padding: 1%;
+        text-align: center;
+    }
+
+    #perk-card-container > img {
+        width: 15%;
+        height: 15%;
+    }
+
+    #perk-card-container > h2, #perk-card-container > p, #perk-card-container > img {
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #perk-card-container {
+        max-width: 20%;
+        height: auto;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: column;
+        box-sizing: border-box;
+        padding: 1%;
+    }
+
+    #perk-card-container > img {
+        width: 20%;
+        height: 20%;
+    }
+
+    #perk-card-container > h2, #perk-card-container > p, #perk-card-container > img {
+        margin: 5px;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #perk-card-container {
+        max-width: 25%;
+        height: auto;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: column;
+        box-sizing: border-box;
+        padding: 1%;
+    }
+
+    #perk-card-container > img {
+        width: 50px;
+        height: 50px;
+    }
+
+    #perk-card-container > h2, #perk-card-container > p, #perk-card-container > img {
+        margin: 5px;
+    }
+}

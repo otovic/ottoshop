@@ -1,0 +1,15 @@
+#anchor-tab {
+    width: auto;
+    height: 35px;
+    border-bottom: 3px solid transparent;
+}
+
+#anchor-tab > a {
+    text-decoration: none;
+    color: black;
+}
+
+#anchor-tab:hover {
+    border-bottom: 3px solid black; 
+    cursor: pointer; 
+}

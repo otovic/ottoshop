@@ -1,0 +1,36 @@
+@media only screen and (max-width: 480.99px) {
+    
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    
+}
+
+@media only screen and (min-width: 1150px) {
+    #user-order-container
+    {
+        width: 700px;
+        height: auto;
+        border: 1px solid black;
+        margin-top: 10px;
+        border-radius: 10px;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    #order-user-info
+    {
+        width: 100%;
+        height: auto;
+        border: 1px solid red;
+    }
+
+    #order-user-info > p
+    {
+        margin: 0px;
+    }
+}

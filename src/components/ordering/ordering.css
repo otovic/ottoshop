@@ -1,0 +1,59 @@
+@media only screen and (max-width: 480.99px) {
+    
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    
+}
+
+@media only screen and (min-width: 1150px) {
+    #order-container
+    {
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 2%;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    #order-form-container
+    {
+        width: 30%;
+        height: auto;
+    }
+
+    #order-details
+    {
+        width: 25%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    #order-details > p
+    {
+        margin: 5px;
+    }
+
+    #order-details > select
+    {
+        width: 100%;
+        height: 40px;
+        font-size: 1rem;
+    }
+
+    #order-details > input
+    {
+        width: 100%;
+        height: 40px;
+        font-size: 1rem;
+    }
+}

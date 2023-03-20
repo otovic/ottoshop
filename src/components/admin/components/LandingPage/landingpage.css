@@ -1,0 +1,42 @@
+@media only screen and (max-width: 480.99px) {
+    #container {
+        width: 100vw;
+        height: 100vh;
+        border: 1px solid red;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 850.99px) {
+    #container {
+        width: 100vw;
+        height: 100vh;
+        border: 1px solid red;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #container {
+        width: 100vw;
+        height: 100vh;
+        border: 1px solid red;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #admin-login-container {
+        width: 600px;
+        height: auto;
+        border: 1px solid black;
+        border-radius: 10px;
+        box-sizing: border-box;
+        padding: 3%;
+    }
+}

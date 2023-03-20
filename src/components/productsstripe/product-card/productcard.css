@@ -1,0 +1,316 @@
+@media only screen and (max-width: 599.9px) {
+    #product-card {
+        width: 100%;
+        aspect-ratio: 1 / 1.4;
+        border: 1px solid transparent;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 1%;
+        border-radius: 10px;
+        transition: all 0.5s;
+        position: relative;
+    }
+
+    #product-card:hover {
+        border: 1px solid rgb(0, 0, 0);
+        cursor: pointer;
+    }
+
+    #product-image {
+        width: 100%;
+        height: 85%;
+        border-radius: 10px;
+        background-color: rgb(236, 236, 236);
+        position: relative;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #product-image > img {
+        width: 90%;
+        height: 100%;
+    }
+
+    #product-price {
+        width: auto;
+        height: auto;
+        border: 1px solid black;
+        background-color: aliceblue;
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #product-price > p {
+        margin: 0px;
+        font-size: 4vw;
+        color: black;
+    }
+
+    #product-name {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-name > p{
+        margin: 0px;
+        font-weight: bold;
+        font-size: 5vw;
+    }
+
+    #product-category {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-category > p {
+        margin: 0px;
+        font-size: 3vw;
+        opacity: 40%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 850.99px) {
+    #product-card {
+        width: 33.3%;
+        aspect-ratio: 1 / 1.4;
+        border: 1px solid transparent;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 5px;
+        border-radius: 10px;
+        transition: all 0.5s;
+        position: relative;
+    }
+
+    #product-card:hover {
+        border: 1px solid rgb(0, 0, 0);
+        cursor: pointer;
+    }
+
+    #product-image {
+        width: 100%;
+        height: 85%;
+        border-radius: 10px;
+        background-color: rgb(236, 236, 236);
+        position: relative;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #product-image > img {
+        width: 90%;
+        height: 100%;
+    }
+
+    #product-price {
+        width: auto;
+        height: auto;
+        border: 1px solid black;
+        background-color: aliceblue;
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #product-price > p {
+        margin: 0px;
+        font-size: 1.5vw;
+    }
+
+    #product-name {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-name > p{
+        margin: 0px;
+        font-weight: bold;
+        font-size: 1.7vw;
+    }
+
+    #product-category {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-category > p {
+        margin: 0px;
+        font-size: 1.3vw;
+        opacity: 40%;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #product-card {
+        width: 25%;
+        aspect-ratio: 1 / 1.4;
+        border: 1px solid transparent;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 5px;
+        border-radius: 10px;
+        transition: all 0.5s;
+        position: relative;
+    }
+
+    #product-card:hover {
+        border: 1px solid rgb(0, 0, 0);
+        cursor: pointer;
+    }
+
+    #product-image {
+        width: 100%;
+        height: 85%;
+        border-radius: 10px;
+        background-color: rgb(236, 236, 236);
+        position: relative;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #product-image > img {
+        width: 90%;
+        height: 100%;
+    }
+
+    #product-price {
+        width: auto;
+        height: auto;
+        border: 1px solid black;
+        background-color: aliceblue;
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #product-price > p {
+        margin: 0px;
+        font-size: 1.3vw;
+    }
+
+    #product-name {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-name > p{
+        margin: 0px;
+        font-weight: bold;
+        font-size: 1.3vw;
+    }
+
+    #product-category {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-category > p {
+        margin: 0px;
+        font-size: 1.1vw;
+        opacity: 40%;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #product-card {
+        width: 20%;
+        aspect-ratio: 1 / 1.4;
+        border: 1px solid transparent;
+        display: inline-block;
+        box-sizing: border-box;
+        padding: 5px;
+        border-radius: 10px;
+        transition: all 0.5s;
+        position: relative;
+    }
+
+    #product-card:hover {
+        border: 1px solid rgb(0, 0, 0);
+        cursor: pointer;
+    }
+
+    #product-image {
+        width: 100%;
+        height: 85%;
+        border-radius: 10px;
+        background-color: rgb(236, 236, 236);
+        position: relative;
+        box-sizing: border-box;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #product-image > img {
+        width: 90%;
+        height: 100%;
+    }
+
+    #product-price {
+        width: auto;
+        height: auto;
+        border: 1px solid black;
+        background-color: aliceblue;
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        box-sizing: border-box;
+        padding: 5px;
+    }
+
+    #product-price > p {
+        margin: 0px;
+        font-size: 1vw;
+    }
+
+    #product-name {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-name > p{
+        margin: 0px;
+        font-weight: bold;
+        font-size: 0.9vw;
+    }
+
+    #product-category {
+        width: 100%;
+        height: auto;
+        box-sizing:border-box;
+        padding: 5px;
+    }
+
+    #product-category > p {
+        margin: 0px;
+        font-size: 0.8vw;
+        opacity: 40%;
+    }
+}

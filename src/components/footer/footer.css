@@ -1,0 +1,142 @@
+@media only screen and (max-width: 599.99px) {
+    #footer {
+        width: 100%;
+        height: auto;
+        background-color: black;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+        box-sizing: border-box;
+        padding: 3%;
+    }
+
+    #footer-card-contact {
+        width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    #footer-card-contact > img {
+        width: 100px;
+        height: 100px;
+        filter: invert(100%);
+    }
+
+    #footer-card-contact > p {
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 850.99px) {
+    #footer {
+        width: 100%;
+        height: auto;
+        background-color: black;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+        box-sizing: border-box;
+        padding: 3%;
+        flex-wrap: wrap;
+    }
+
+    #footer-card-contact {
+        width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    #footer-card-contact > img {
+        width: 100px;
+        height: 100px;
+        filter: invert(100%);
+    }
+
+    #footer-card-contact > p {
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 851px) and (max-width: 1149.99px) {
+    #footer {
+        width: 100%;
+        height: auto;
+        background-color: black;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5%;
+        box-sizing: border-box;
+        padding: 3%;
+        flex-wrap: wrap;
+    }
+
+    #footer-card-contact {
+        min-width: 250px;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    #footer-card-contact > img {
+        width: 100px;
+        height: 100px;
+        filter: invert(100%);
+    }
+
+    #footer-card-contact > p {
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 1150px) {
+    #footer {
+        width: 100%;
+        height: auto;
+        background-color: black;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 5%;
+        box-sizing: border-box;
+        padding: 3%;
+        flex-wrap: wrap;
+    }
+
+    #footer-card-contact {
+        width: auto;
+        height: auto;
+        box-sizing: border-box;
+        padding: 10px;
+    }
+
+    #footer-card-contact > img {
+        width: 100px;
+        height: 100px;
+        filter: invert(100%);
+    }
+
+    #footer-card-contact > p {
+        color: white;
+    }
+}
+
+.footer-socials {
+    display: flex;
+    flex-direction: row;
+}
+
+#footer-hover:hover {
+    text-decoration: underline;
+    color: rgb(116, 116, 255);
+    cursor: pointer;
+}
